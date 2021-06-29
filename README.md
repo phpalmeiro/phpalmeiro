@@ -1,13 +1,13 @@
-### Hi! My name is Pedro and I'm currently learning Fullstack Development. Feel free to contact me any time.
-\
-<a href="https://www.linkedin.com/in/phpalmeiro/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="50">
-</a>
+#### Hi! My name is Pedro Palmeiro and I'm currently learning Fullstack Development.
 
-<br>
 <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=phpalmeiro&show_icons=true&theme=gruvbox">
 </div>
+
+Feel free to contact me at any time:  
+<a href="https://www.linkedin.com/in/phpalmeiro/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="50">
+</a>  
 
 <!--
 **phpalmeiro/phpalmeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
