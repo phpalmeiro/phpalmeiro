@@ -1,8 +1,7 @@
 ## Hi! Welcome, I'm Pedro Henrique Palmeiro.
 - A former **Computer Engineering** student at the **Federal University of Rio de Janeiro** where I researched **Computer Networks**.
-- Relearning **Software Engineering** and **FullStack Development** after years without coding. 
+- Relearning **Software Engineering** and **Web FullStack Development** after years without coding. 
 - Currently learning `JavaScript`, `React`, `Java` and `PostgreSQL`.
-- I'm a **Santander Universities Fullstack Development** scholarship recipient.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript&logoColor=ffffff&color=e6c300)
 ![React](https://img.shields.io/badge/React-Beginner-blue?style=flat-square&logo=react&logoColor=ffffff&color=0e76a8)
